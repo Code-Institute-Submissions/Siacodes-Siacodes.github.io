@@ -287,8 +287,6 @@ footer p {
         overflow: auto;
         z-index: 1;
         width: 100%;
-    
-    
     }
     .aside-logo{
         display:none;
@@ -317,8 +315,6 @@ footer p {
         display: none;
     }
 }
-
-
 @media (min-width: 660px) {
     aside {
         display: inline !important;
