@@ -23,7 +23,13 @@ DEPLOYMENT
 
 CREDITS
 
-Code
-Content
-Media
-Acknowledgements
+Code:
+- The code of this project is based on https://startbootstrap.com/theme/agency
+- The calendar is based on https://bootsnipp.com/snippets/5MW5M
+Content:
+- The content is based on https://www.clubmetropolitan.net/en/gimnasios/barcelona
+Media:
+- The pictures were found in https://unsplash.com/s/photos/martial-arts
+- Author:
+Acknowledgements:
+- I want to thank Cristina Verdi for her guidance and mentoring 
