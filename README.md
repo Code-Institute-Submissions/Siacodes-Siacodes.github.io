@@ -16,7 +16,7 @@ The Montserrat font is the main font used throughout the whole website with Droi
 
 Imagery
 
-Imagery is important. The large, background hero image is designed to be striking and catch the user's attention. It also has a modern, energetic aesthetic.
+Imagery is important. The large, background hero image is designed to stand out and attract the user's interest. It also has a dynamic and fierce aesthetic as it is meant to encourage and awaken an interest for martial arts.
 
 Features
 
